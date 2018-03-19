@@ -1,0 +1,56 @@
+﻿<project version="2.9" name="Project" ID="6A36F7B1-0047-4E60-8BCC-6E50653CC4AE">
+  <params>
+    <pageParam version="5.1" minAllowVersion="5.1"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtMobile" orientation="MoPortrait" mobileScreenScale="1.77777779102325" mobileType="mmtIOS" pageSize="(375,667)" backgroundColor="4294967295" fontSize="14" fontFamily="Segoe UI" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="LoginPage" ID="EDDBDE70-E6EF-41E0-A2C6-B8F954F2E801" expanded="True" code="wrWAziuw5q" thumbCode="wrWAziuw5q" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="815781A10115BF31D6BD6074D0478F2F.jpg"/>
+        <image key="81E67B924FE8F7E35531F214521D1553.jpg"/>
+        <image key="473C2C990FBFB99C483BDAA039B072DE.jpg"/>
+        <image key="62059397A6CE483E2F42378C8C5D91BE.jpg"/>
+      </images>
+    </page>
+    <page name="HomePage" ID="F7244353-1B22-432D-95EF-34F9D30FCBBD" expanded="True" code="Qg6tp8G8i4" thumbCode="Qg6tp8G8i4" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="815781A10115BF31D6BD6074D0478F2F.jpg"/>
+        <image key="EA22106C0A89B71D2DF701446775A5BE.png"/>
+        <image key="883727F644799A83EE06CAF88BEE8A1A.jpg"/>
+        <image key="8ACC29658C13741989EEEB0E313BB985.jpg"/>
+        <image key="F2C39513D8E3225210BCF8D2A30FA635.png"/>
+        <image key="1CB45566D166AF5EE29BAFC8EDC34E73.svg"/>
+        <image key="29F37D064345EFF092FDE43A909201C4.svg"/>
+        <image key="6E397F998770B38A343BB5B849DF19E9.svg"/>
+        <image key="0A386659CF27870E4D07BE0262394427.jpg"/>
+        <image key="0A44D3640F559A9E6C09A3E6C69C490A.png"/>
+        <image key="B569B7C7CC4D43B180E56D9983BD614D.jpg"/>
+      </images>
+    </page>
+    <page name="SolarPanels" ID="64DE0A83-8632-4DD2-9049-DAD4F6FF2728" expanded="False" code="zSmGbjbNgm" thumbCode="zSmGbjbNgm" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="WindTurbines" ID="4D3DF8A0-26D5-4681-9AC9-D84B6519527C" expanded="True" code="niKEkZSw5K" thumbCode="niKEkZSw5K" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="PowerConsumption" ID="73A86BB4-C05F-414D-8772-EB61E1F6DBC8" expanded="True" code="nn83vae6WY" thumbCode="nn83vae6WY" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="WeatherPrediction" ID="C892AF6D-AB6B-4040-9415-F00DCB9815C1" expanded="True" code="VMmFhnTUNo" thumbCode="6dhdQIU6u5" status="psWhite" isfolder="False" isshownode="True"/>
+  </pages>
+  <trash/>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="883727F644799A83EE06CAF88BEE8A1A.jpg"/>
+    <image key="1CB45566D166AF5EE29BAFC8EDC34E73.svg"/>
+    <image key="6E397F998770B38A343BB5B849DF19E9.svg"/>
+    <image key="0A386659CF27870E4D07BE0262394427.jpg"/>
+    <image key="0A44D3640F559A9E6C09A3E6C69C490A.png"/>
+    <image key="815781A10115BF31D6BD6074D0478F2F.jpg"/>
+    <image key="EA22106C0A89B71D2DF701446775A5BE.png"/>
+    <image key="81E67B924FE8F7E35531F214521D1553.jpg"/>
+    <image key="62059397A6CE483E2F42378C8C5D91BE.jpg"/>
+    <image key="F2C39513D8E3225210BCF8D2A30FA635.png"/>
+    <image key="8ACC29658C13741989EEEB0E313BB985.jpg"/>
+    <image key="29F37D064345EFF092FDE43A909201C4.svg"/>
+    <image key="473C2C990FBFB99C483BDAA039B072DE.jpg"/>
+    <image key="B569B7C7CC4D43B180E56D9983BD614D.jpg"/>
+  </images>
+</project>

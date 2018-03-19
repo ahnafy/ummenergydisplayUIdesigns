@@ -1,0 +1,31 @@
+﻿<project version="2.9" name="a" ID="8C2B90FF-1B0B-4E6E-AFD6-42571C95F9BB">
+  <params>
+    <pageParam version="5.1" minAllowVersion="5.1"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtDesktop" pageSize="(800,600)" backgroundColor="4294967295" fontSize="0" fontFamily="" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="Home" ID="5EA139AE-FE3F-43B8-8485-79358B3AF729" expanded="True" code="8QUrCaZJi7" thumbCode="8QUrCaZJi7" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="360060AFB94D7ABD890136733D060B72.png"/>
+        <image key="FBAD3AD4E72D1F8D1771A2C3081E7291.jpg"/>
+        <image key="203F8514374CEDA0D9FF1176EFF9789D.jpg"/>
+        <image key="B66791EC4B5B73FDBDD611BE6A6207BC.png"/>
+        <image key="ADE7E5E29B473C2F25DCD708D805777C.png"/>
+        <image key="E93B348A2DE7DB2E3395F9DAF58C66F6.jpg"/>
+      </images>
+    </page>
+  </pages>
+  <trash/>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="B66791EC4B5B73FDBDD611BE6A6207BC.png"/>
+    <image key="FBAD3AD4E72D1F8D1771A2C3081E7291.jpg"/>
+    <image key="ADE7E5E29B473C2F25DCD708D805777C.png"/>
+    <image key="E93B348A2DE7DB2E3395F9DAF58C66F6.jpg"/>
+    <image key="360060AFB94D7ABD890136733D060B72.png"/>
+    <image key="203F8514374CEDA0D9FF1176EFF9789D.jpg"/>
+  </images>
+</project>
